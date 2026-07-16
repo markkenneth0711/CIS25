@@ -1,0 +1,13 @@
+Student Project - Scope of Work (SOW) [cite: 8]
+
+Project Title: Console Inventory Management System [cite: 9]
+Student Name: Mark Kenneth Miranda [cite: 10]
+Date: 07/15/2026 [cite: 11]
+
+1. Project Overview [cite: 12]
+This C++ application is an inventory management system designed to help a user track product stock[cite: 13]. It will utilize long-term data storage by reading from and writing to a local text file, ensuring data persists between program runs[cite: 5, 13]. 
+
+2. Features [cite: 14]
+- Ability to add new product items to the inventory list [cite: 15]
+- Ability to view all existing inventory items
+- Ability to save the inventory data to a local text file and load it automatically upon startup [cite: 5]
